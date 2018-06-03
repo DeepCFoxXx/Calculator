@@ -50,8 +50,8 @@
       <file leaf-file-name="Calculator_Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Calculator_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+            <state relative-caret-position="364">
+              <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#121#122#0" expanded="true" />
@@ -597,7 +597,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Calculator_Test.canMultiply5By10AndGet50">
+  <component name="RunManager" selected="JUnit.Calculator_Test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -638,13 +638,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Calculator_Test.canHandleMultipleOperations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator_Test.canDivide1000By4AndGet250" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculator_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Calculator_Test" />
-      <option name="METHOD_NAME" value="canHandleMultipleOperations" />
+      <option name="METHOD_NAME" value="canDivide1000By4AndGet250" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -742,18 +742,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Calculator_Test" />
-      <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
       <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
       <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
       <item itemvalue="JUnit.Calculator_Test.canMultiply5By10AndGet50" />
+      <item itemvalue="JUnit.Calculator_Test.canDivide1000By4AndGet250" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Calculator_Test" />
+        <item itemvalue="JUnit.Calculator_Test.canDivide1000By4AndGet250" />
         <item itemvalue="JUnit.Calculator_Test.canMultiply5By10AndGet50" />
         <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
         <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
-        <item itemvalue="JUnit.Calculator_Test" />
-        <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -771,12 +771,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Calculator_Test_divideByZeroDoesNotChangeResult - 2018.06.03 at 14h 30m 09s.xml">
-      <configuration name="Calculator_Test.divideByZeroDoesNotChangeResult" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calculator_Test_divideByZeroDoesNotChangeResult - 2018.06.03 at 15h 33m 16s.xml">
-      <configuration name="Calculator_Test.divideByZeroDoesNotChangeResult" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Calculator_Test_divideByZeroDoesNotChangeResult - 2018.06.03 at 15h 38m 40s.xml">
       <configuration name="Calculator_Test.divideByZeroDoesNotChangeResult" configurationId="JUnit" />
     </history-entry>
@@ -800,6 +794,12 @@
     </history-entry>
     <history-entry file="Calculator_Test_canSubtract5Form20AndGet15 - 2018.06.03 at 15h 54m 04s.xml">
       <configuration name="Calculator_Test.canSubtract5Form20AndGet15" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_Test_canSubtract5Form20AndGet15 - 2018.06.03 at 15h 54m 26s.xml">
+      <configuration name="Calculator_Test.canSubtract5Form20AndGet15" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_Test_canMultiply5By10AndGet50 - 2018.06.03 at 15h 58m 05s.xml">
+      <configuration name="Calculator_Test.canMultiply5By10AndGet50" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -866,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Calculator_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        <state relative-caret-position="364">
+          <caret line="95" column="48" selection-start-line="95" selection-start-column="48" selection-end-line="95" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />

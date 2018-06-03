@@ -89,4 +89,11 @@ public class Calculator_Test {
         assertEquals(50, calculator.getResult());
     }
 
+    @Test
+    public void canDivide1000By4AndGet250() {
+        calculator.add(1000);
+        calculator.divide(4);
+        assertEquals(250, calculator.getResult());
+    }
+
 }
