@@ -66,7 +66,13 @@ public class Calculator_Test {
         calculator.multiply(10);
         calculator.divide(2);
         assertEquals(6075, calculator.getResult());
+    }
 
+    @Test
+    public void canAdd4To1AndGet5() {
+        calculator.add(4);
+        calculator.add(1);
+        assertEquals(5, calculator.getResult());
     }
 
 }
