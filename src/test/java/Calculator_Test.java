@@ -32,4 +32,11 @@ public class Calculator_Test {
        assertEquals(100, calculator.getResult());
    }
 
+   @Test
+    public void canDivide() {
+        calculator.add(100);
+        calculator.divide(4);
+        assertEquals(25, calculator.getResult());
+   }
+
 }

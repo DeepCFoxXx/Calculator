@@ -27,4 +27,8 @@ public class Calculator {
         return this.result *= value;
     }
 
+    public int divide(int value) {
+        return this.result /= value;
+    }
+
 }
