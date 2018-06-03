@@ -5,11 +5,11 @@ import static org.junit.Assert.assertEquals;
 
 public class Calculator_Test {
 
-   Calculator calculator;
+    private static Calculator calculator = new Calculator();
 
-   @Before
+    @Before
     public void before() {
-       calculator = new Calculator();
+       calculator.reset();
    }
 
    @Test

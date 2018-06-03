@@ -6,6 +6,10 @@ public class Calculator {
        this.result = result;
     }
 
+    public int reset() {
+        result = 0;
+        return 0;
+    }
 
     public int getResult() {
         return this.result;
