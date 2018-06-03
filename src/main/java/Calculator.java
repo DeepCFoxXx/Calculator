@@ -19,4 +19,8 @@ public class Calculator {
         return this.result -= value;
     }
 
+    public int multiply(int value) {
+        return this.result *= value;
+    }
+
 }

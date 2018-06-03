@@ -25,4 +25,11 @@ public class Calculator_Test {
       assertEquals(50, calculator.getResult());
    }
 
+   @Test
+   public void canMultiply() {
+       calculator.add(10);
+       calculator.multiply(10);
+       assertEquals(100, calculator.getResult());
+   }
+
 }
