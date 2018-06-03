@@ -55,4 +55,18 @@ public class Calculator_Test {
         assertEquals(2, calculator.getResult());
     }
 
+    @Test
+    public void canHandleMultipleOperations() {
+        calculator.add(1000);
+        calculator.subtract(100);
+        calculator.multiply(5);
+        calculator.divide(4);
+        calculator.add(100);
+        calculator.subtract(10);
+        calculator.multiply(10);
+        calculator.divide(2);
+        assertEquals(6075, calculator.getResult());
+
+    }
+
 }
