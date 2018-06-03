@@ -18,4 +18,11 @@ public class Calculator_Test {
        assertEquals(10, calculator.getResult());
    }
 
+   @Test
+   public void canSubtract() {
+      calculator.add(100);
+      calculator.subtract(50);
+      assertEquals(50, calculator.getResult());
+   }
+
 }

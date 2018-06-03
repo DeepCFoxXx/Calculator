@@ -6,13 +6,17 @@ public class Calculator {
        this.result = result;
     }
 
+
+    public int getResult() {
+        return this.result;
+    }
+
     public int add(int value) {
        return this.result += value;
     }
 
-
-    public int getResult() {
-        return this.result;
+    public int subtract(int value) {
+        return this.result -= value;
     }
 
 }
