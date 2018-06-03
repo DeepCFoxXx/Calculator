@@ -44,4 +44,15 @@ public class Calculator_Test {
         calculator.divide(0);
     }
 
+    @Test
+    public void divideByZeroDoesNotChangeResult() {
+        calculator.add(2);
+
+        try {
+            calculator.divide(0);
+        } catch (ArithmeticException a) {}
+
+        assertEquals(2, calculator.getResult());
+    }
+
 }
