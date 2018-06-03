@@ -50,8 +50,8 @@
       <file leaf-file-name="Calculator_Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Calculator_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+            <state relative-caret-position="349">
+              <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#121#122#0" expanded="true" />
@@ -597,7 +597,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Calculator_Test.canAdd4To1AndGet5">
+  <component name="RunManager" selected="JUnit.Calculator_Test.canSubtract5Form20AndGet15">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -655,13 +655,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Calculator_Test.divideByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator_Test.canSubtract5Form20AndGet15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculator_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Calculator_Test" />
-      <option name="METHOD_NAME" value="divideByZero" />
+      <option name="METHOD_NAME" value="canSubtract5Form20AndGet15" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -742,18 +742,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Calculator_Test" />
-      <item itemvalue="JUnit.Calculator_Test.divideByZero" />
       <item itemvalue="JUnit.Calculator_Test.divideByZeroDoesNotChangeResult" />
       <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
       <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
+      <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
         <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
         <item itemvalue="JUnit.Calculator_Test" />
         <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
         <item itemvalue="JUnit.Calculator_Test.divideByZeroDoesNotChangeResult" />
-        <item itemvalue="JUnit.Calculator_Test.divideByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -771,12 +771,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Calculator_Test_canDivide - 2018.06.03 at 14h 21m 19s.xml">
-      <configuration name="Calculator_Test.canDivide" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Calculator_Test_divideByZero - 2018.06.03 at 14h 22m 47s.xml">
-      <configuration name="Calculator_Test.divideByZero" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Calculator_Test_divideByZeroDoesNotChangeResult - 2018.06.03 at 14h 30m 09s.xml">
       <configuration name="Calculator_Test.divideByZeroDoesNotChangeResult" configurationId="JUnit" />
     </history-entry>
@@ -801,6 +795,12 @@
     <history-entry file="Calculator_Test - 2018.06.03 at 15h 46m 42s.xml">
       <configuration name="Calculator_Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Calculator_Test_canAdd4To1AndGet5 - 2018.06.03 at 15h 52m 21s.xml">
+      <configuration name="Calculator_Test.canAdd4To1AndGet5" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_Test_canSubtract5Form20AndGet15 - 2018.06.03 at 15h 54m 04s.xml">
+      <configuration name="Calculator_Test.canSubtract5Form20AndGet15" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -814,12 +814,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Build" weight="0.27448276" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -866,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Calculator_Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="349">
+          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#121#122#0" expanded="true" />

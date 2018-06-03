@@ -75,4 +75,11 @@ public class Calculator_Test {
         assertEquals(5, calculator.getResult());
     }
 
+    @Test
+    public void canSubtract5Form20AndGet15() {
+        calculator.add(20);
+        calculator.subtract(5);
+        assertEquals(15, calculator.getResult());
+    }
+
 }
