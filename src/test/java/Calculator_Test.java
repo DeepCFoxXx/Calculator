@@ -39,4 +39,9 @@ public class Calculator_Test {
         assertEquals(25, calculator.getResult());
    }
 
+    @Test(expected = ArithmeticException.class)
+    public void divideByZero() {
+        calculator.divide(0);
+    }
+
 }
