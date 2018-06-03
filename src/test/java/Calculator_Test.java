@@ -82,4 +82,11 @@ public class Calculator_Test {
         assertEquals(15, calculator.getResult());
     }
 
+    @Test
+    public void canMultiply5By10AndGet50() {
+        calculator.add(5);
+        calculator.multiply(10);
+        assertEquals(50, calculator.getResult());
+    }
+
 }

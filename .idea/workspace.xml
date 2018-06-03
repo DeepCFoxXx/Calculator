@@ -597,7 +597,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Calculator_Test.canSubtract5Form20AndGet15">
+  <component name="RunManager" selected="JUnit.Calculator_Test.canMultiply5By10AndGet50">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -655,13 +655,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Calculator_Test.canSubtract5Form20AndGet15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator_Test.canMultiply5By10AndGet50" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculator_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Calculator_Test" />
-      <option name="METHOD_NAME" value="canSubtract5Form20AndGet15" />
+      <option name="METHOD_NAME" value="canMultiply5By10AndGet50" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -672,13 +672,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Calculator_Test.divideByZeroDoesNotChangeResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator_Test.canSubtract5Form20AndGet15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Calculator_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Calculator_Test" />
-      <option name="METHOD_NAME" value="divideByZeroDoesNotChangeResult" />
+      <option name="METHOD_NAME" value="canSubtract5Form20AndGet15" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -742,18 +742,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.Calculator_Test" />
-      <item itemvalue="JUnit.Calculator_Test.divideByZeroDoesNotChangeResult" />
       <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
       <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
       <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
+      <item itemvalue="JUnit.Calculator_Test.canMultiply5By10AndGet50" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Calculator_Test.canMultiply5By10AndGet50" />
         <item itemvalue="JUnit.Calculator_Test.canSubtract5Form20AndGet15" />
         <item itemvalue="JUnit.Calculator_Test.canAdd4To1AndGet5" />
         <item itemvalue="JUnit.Calculator_Test" />
         <item itemvalue="JUnit.Calculator_Test.canHandleMultipleOperations" />
-        <item itemvalue="JUnit.Calculator_Test.divideByZeroDoesNotChangeResult" />
       </list>
     </recent_temporary>
   </component>
